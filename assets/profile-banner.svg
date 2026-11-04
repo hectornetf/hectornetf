@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10172A"/>
+      <stop offset="1" stop-color="#11102B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="110" x2="960" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56D4C5"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="blur" x="-100" y="-100" width="1400" height="560" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <ellipse cx="920" cy="30" rx="260" ry="150" fill="#6D5DFB" fill-opacity=".2" filter="url(#blur)"/>
+  <ellipse cx="180" cy="360" rx="250" ry="140" fill="#22C5B5" fill-opacity=".16" filter="url(#blur)"/>
+  <circle cx="1010" cy="112" r="92" stroke="url(#accent)" stroke-opacity=".32" stroke-width="1.5"/>
+  <circle cx="1010" cy="112" r="66" stroke="url(#accent)" stroke-opacity=".22" stroke-width="1.5"/>
+  <path d="M0 282C170 228 253 328 408 273C563 218 653 170 810 214C967 258 1040 314 1200 253V360H0V282Z" fill="url(#accent)" fill-opacity=".08"/>
+  <text x="86" y="142" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="3">GITHUB PROFILE</text>
+  <text x="82" y="222" fill="#F8FAFC" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Olá, eu sou Hector</text>
+  <text x="86" y="270" fill="#B8C2D8" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22">Projetos, tecnologia e aprendizado contínuo.</text>
+  <rect x="86" y="300" width="54" height="4" rx="2" fill="url(#accent)"/>
+  <circle cx="1010" cy="112" r="8" fill="#65E6D2"/>
+  <circle cx="1080" cy="210" r="5" fill="#A78BFA"/>
+  <circle cx="914" cy="220" r="4" fill="#79C0FF"/>
+</svg>

@@ -1,48 +1,63 @@
 <div align="center">
 
-# Olá, eu sou Hector 👋
+![Banner do perfil](assets/profile-banner.svg)
 
-### Bem-vindo ao meu perfil no GitHub
+### Olá, eu sou Hector 👋
+**Desenvolvedor em evolução · explorando ideias e construindo projetos**
 
-[![GitHub followers](https://img.shields.io/github/followers/hectornetf?style=for-the-badge&logo=github&label=Seguidores)](https://github.com/hectornetf?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=hectornetf&style=for-the-badge&color=blueviolet)](https://github.com/hectornetf)
+[![GitHub](https://img.shields.io/badge/GitHub-hectornetf-181717?style=for-the-badge&logo=github)](https://github.com/hectornetf)
+[![Seguidores](https://img.shields.io/github/followers/hectornetf?style=for-the-badge&logo=github&label=Seguidores&color=7159c1)](https://github.com/hectornetf?tab=followers)
+[![Visitas](https://komarev.com/ghpvc/?username=hectornetf&style=for-the-badge&color=0891b2&label=VISITAS)](https://github.com/hectornetf)
 
 </div>
+
+---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Hector** e este é meu espaço para compartilhar projetos, aprender e evoluir na tecnologia. Explore meus repositórios para conhecer o que estou construindo.
+Bem-vindo ao meu perfil! Aqui compartilho projetos, experimentos e minha jornada de aprendizado em tecnologia. Fique à vontade para explorar os repositórios e acompanhar as novidades.
 
-## 🧰 Habilidades
+## 🛠️ Tecnologias
 
-> Ainda não tenho informações sobre suas tecnologias e experiências. Personalize esta seção com suas habilidades reais para que visitantes conheçam melhor seu trabalho.
+Tecnologias usadas nos projetos deste perfil:
 
-- **Linguagens:** `adicione aqui` · `adicione aqui`
-- **Frameworks e ferramentas:** `adicione aqui` · `adicione aqui`
-- **Interesses:** `adicione aqui`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Meu GitHub
+## 📊 Dashboard GitHub
 
 <div align="center">
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hectornetf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/hectornetf)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hectornetf&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/hectornetf)
+<a href="https://github.com/hectornetf">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hectornetf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=bc8cff&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub de Hector" />
+</a>
+<a href="https://github.com/hectornetf?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectornetf&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Linguagens mais usadas nos repositórios de Hector" />
+</a>
+
+[![Sequência de contribuições](https://streak-stats.demolab.com?user=hectornetf&theme=github-dark-blue&hide_border=true&background=0D1117&ring=BC8CFF&fire=79C0FF&currStreakLabel=79C0FF)](https://github.com/hectornetf)
 
 </div>
 
-## 🐍 Pausa para jogar
+## ✨ Projeto em destaque
 
-Um jogo da cobrinha simples para dar uma pausa. Abra [`snake.html`](snake.html) no navegador para jogar (baixe o arquivo e abra-o localmente). Use as **setas** ou **WASD**; no celular, use os botões na tela. Pressione **Espaço** para começar ou reiniciar.
+### 🐍 Snake — uma pausa interativa
 
-## 📫 Vamos nos conectar
+Um jogo da cobrinha feito com HTML, CSS e JavaScript, com controles de teclado e botões para celular.
 
-- Confira meus [repositórios](https://github.com/hectornetf?tab=repositories).
-- **Contato:** adicione aqui seu e-mail ou links profissionais.
+[**▶ Jogar Snake**](snake.html) · [Ver código](snake.html)
+
+## 🤝 Vamos nos conectar
+
+- Explore meus [repositórios](https://github.com/hectornetf?tab=repositories)
+- Acompanhe meus [projetos e atualizações](https://github.com/hectornetf)
 
 ---
 
 <div align="center">
 
-*Obrigado pela visita! ⭐*
+*Obrigado pela visita — volte sempre!* ✨
 
 </div>
