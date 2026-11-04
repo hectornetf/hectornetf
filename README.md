@@ -4,10 +4,11 @@
 
 ### `FULL STACK` · `BACK-END` · `DEVOPS`
 
-Construindo aplicações, integrações e automações — sempre aprendendo e explorando novas ideias.
+**Desenvolvedor de software com experiência em aplicações web e mobile, APIs, integrações e automação.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-hectornetf-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/hectornetf)
-[![Repositórios](https://img.shields.io/badge/Explorar-projetos-0d1117?style=for-the-badge&logo=github&logoColor=FF4DFF)](https://github.com/hectornetf?tab=repositories)
+[![Portfólio](https://img.shields.io/badge/Portfólio-VoleizinDosCria-0d1117?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://voleizindoscria.vercel.app/)
+[![Projetos](https://img.shields.io/badge/Explorar-projetos-0d1117?style=for-the-badge&logo=github&logoColor=FF4DFF)](https://github.com/hectornetf?tab=repositories)
 [![Seguidores](https://img.shields.io/github/followers/hectornetf?style=for-the-badge&logo=github&label=Seguidores&color=7122FA)](https://github.com/hectornetf?tab=followers)
 
 </div>
@@ -16,11 +17,13 @@ Construindo aplicações, integrações e automações — sempre aprendendo e e
 
 ## `> SOBRE_MIM` 🧑‍💻
 
-Sou **Hector Nelson**. Trabalho em projetos de desenvolvimento **full stack** e **back-end**, e tenho interesse em **DevOps**, automação e sistemas conectados. Gosto de transformar ideias em soluções práticas — de aplicações web e mobile a integrações e ferramentas para o dia a dia.
+Sou **Hector Nelson**, desenvolvedor com atuação em projetos **full stack** e **back-end**, além de experiência prática com automação e entrega de software. Trabalho com aplicações web e mobile, APIs e integrações entre serviços. Gosto de cuidar do ciclo completo: da implementação e segurança à validação, build e publicação.
+
+Meu portfólio inclui desde bibliotecas e componentes de interface até aplicações de gestão multiplataforma, serviços integrados ao Jira e scripts de monitoramento para servidores.
 
 ## `> STACK` ⚡
 
-Tecnologias identificadas nos meus repositórios públicos:
+Tecnologias identificadas nos projetos públicos — experiência e uso variam por projeto.
 
 **Linguagens**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -28,16 +31,55 @@ Tecnologias identificadas nos meus repositórios públicos:
 ![C%23](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=9B4F96)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=flat-square&logo=ruby&logoColor=CC342D)
 
-**Frameworks, plataformas e ferramentas**  
+**Web e mobile**  
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/ASP.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Cloud, dados e entrega**  
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
 ![Expo](https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=0052CC)
+
+## `> PROJETOS_EM_DESTAQUE` 🧩
+
+### 🏐 [VoleizinDosCria](https://github.com/hectornetf/Volleyball)
+Plataforma web e mobile para gestão de grupos de vôlei: presença, sorteio equilibrado de times, estatísticas e controle financeiro. Projeto full stack com **React, Vite, React Native, Expo e Firebase/Firestore**, sincronização em tempo real e deploy web na [Vercel](https://voleizindoscria.vercel.app/). O repositório documenta pipelines de publicação web e mobile com GitHub Actions e EAS.
+
+### 🎫 [ControlJira](https://github.com/hectornetf/ControlJira)
+Aplicação full stack para gestão de tickets integrada ao Jira. Combina **Angular, Node.js, Express e TypeScript**, com autenticação OTP por e-mail, JWT/refresh token e APIs para gestão de tickets.
+
+### 🧩 [Truly-UI](https://github.com/hectornetf/truly-ui)
+Framework de componentes de interface para aplicações desktop com **Angular** e tecnologias web — contribuição ao ecossistema open source.
+
+### 🔌 [ngx-sails-io](https://github.com/hectornetf/ngx-sails-io)
+Biblioteca Angular para conectar aplicações a back-ends **Sails.js** usando **Socket.IO**, com suporte a requisições e eventos em tempo real.
+
+### 🖥️ [WebAppCrudEF2](https://github.com/hectornetf/WebAppCrudEF2) · [Consult](https://github.com/hectornetf/Consult)
+Projetos back-end em **C#/.NET**, incluindo CRUD com ASP.NET MVC e Entity Framework Core e um projeto descrito como microserviços.
+
+### ⚙️ [MonitoramentoDisco](https://github.com/hectornetf/MonitoramentoDisco)
+Automação em **PowerShell** para gerar relatórios HTML de espaço em disco em servidores Windows e enviá-los por e-mail.
+
+### 🐍 [Snake](snake.html)
+Jogo da cobrinha feito para este perfil, com controles de teclado e celular.
+
+## `> COMO_TRABALHO` 🛠️
+
+- **Desenvolvimento:** interfaces web/mobile, APIs e integração entre sistemas.
+- **Entrega:** lint, build e publicação automatizada documentados nos projetos web e mobile.
+- **Automação:** scripts para rotinas operacionais e monitoramento de servidores.
+- **Segurança:** atenção a autenticação, proteção de segredos e regras de acesso nos projetos que documentam esses recursos.
 
 ## `> DASHBOARD` 📡
 
@@ -54,17 +96,11 @@ Tecnologias identificadas nos meus repositórios públicos:
 
 </div>
 
-## `> PROJETOS_EM_DESTAQUE` 🧩
-
-- 🏐 **[Volleyball](https://github.com/hectornetf/Volleyball)** — gestão para grupos de vôlei com React, Vite, React Native, Expo e Firebase.
-- 🔌 **[ngx-sails-io](https://github.com/hectornetf/ngx-sails-io)** — integração de Angular com Sails.js e Socket.IO.
-- 🖥️ **[WebAppCrudEF2](https://github.com/hectornetf/WebAppCrudEF2)** — aplicação CRUD com ASP.NET MVC e Entity Framework Core.
-- ⚙️ **[MonitoramentoDisco](https://github.com/hectornetf/MonitoramentoDisco)** — automação PowerShell para relatórios de espaço em disco.
-- 🐍 **[Snake](snake.html)** — jogo da cobrinha para uma pausa entre projetos.
-
 ## `> CONECTAR` 🌐
 
-Veja meus [repositórios](https://github.com/hectornetf?tab=repositories) e acompanhe os projetos por aqui. Para contato profissional, envie uma mensagem pelo GitHub.
+- **GitHub:** [hectornetf](https://github.com/hectornetf)
+- **Portfólio / projeto em produção:** [VoleizinDosCria](https://voleizindoscria.vercel.app/)
+- **Demais projetos:** [repositórios públicos](https://github.com/hectornetf?tab=repositories)
 
 ---
 
@@ -72,6 +108,6 @@ Veja meus [repositórios](https://github.com/hectornetf?tab=repositories) e acom
 
 `SYSTEM STATUS: LEARNING • BUILDING • SHIPPING`
 
-*Valeu pela visita. Até a próxima!* ✨
+*Obrigado pela visita — até a próxima!* ✨
 
 </div>
