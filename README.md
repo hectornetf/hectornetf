@@ -1,63 +1,77 @@
 <div align="center">
 
-![Banner do perfil](assets/profile-banner.svg)
+![Banner cyberpunk — Hector Nelson](assets/cyberpunk-banner.svg)
 
-### Olá, eu sou Hector 👋
-**Desenvolvedor em evolução · explorando ideias e construindo projetos**
+### `FULL STACK` · `BACK-END` · `DEVOPS`
 
-[![GitHub](https://img.shields.io/badge/GitHub-hectornetf-181717?style=for-the-badge&logo=github)](https://github.com/hectornetf)
-[![Seguidores](https://img.shields.io/github/followers/hectornetf?style=for-the-badge&logo=github&label=Seguidores&color=7159c1)](https://github.com/hectornetf?tab=followers)
-[![Visitas](https://komarev.com/ghpvc/?username=hectornetf&style=for-the-badge&color=0891b2&label=VISITAS)](https://github.com/hectornetf)
+Construindo aplicações, integrações e automações — sempre aprendendo e explorando novas ideias.
+
+[![GitHub](https://img.shields.io/badge/GitHub-hectornetf-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/hectornetf)
+[![Repositórios](https://img.shields.io/badge/Explorar-projetos-0d1117?style=for-the-badge&logo=github&logoColor=FF4DFF)](https://github.com/hectornetf?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/hectornetf?style=for-the-badge&logo=github&label=Seguidores&color=7122FA)](https://github.com/hectornetf?tab=followers)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `> SOBRE_MIM` 🧑‍💻
 
-Bem-vindo ao meu perfil! Aqui compartilho projetos, experimentos e minha jornada de aprendizado em tecnologia. Fique à vontade para explorar os repositórios e acompanhar as novidades.
+Sou **Hector Nelson**. Trabalho em projetos de desenvolvimento **full stack** e **back-end**, e tenho interesse em **DevOps**, automação e sistemas conectados. Gosto de transformar ideias em soluções práticas — de aplicações web e mobile a integrações e ferramentas para o dia a dia.
 
-## 🛠️ Tecnologias
+## `> STACK` ⚡
 
-Tecnologias usadas nos projetos deste perfil:
+Tecnologias identificadas nos meus repositórios públicos:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Linguagens**  
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C%23](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=9B4F96)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=flat-square&logo=ruby&logoColor=CC342D)
 
-## 📊 Dashboard GitHub
+**Frameworks, plataformas e ferramentas**  
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/ASP.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=FFFFFF)
+
+## `> DASHBOARD` 📡
 
 <div align="center">
 
 <a href="https://github.com/hectornetf">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hectornetf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=bc8cff&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub de Hector" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hectornetf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF4DFF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas GitHub de Hector" />
 </a>
 <a href="https://github.com/hectornetf?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectornetf&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Linguagens mais usadas nos repositórios de Hector" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectornetf&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Linguagens dos repositórios públicos de Hector" />
 </a>
 
-[![Sequência de contribuições](https://streak-stats.demolab.com?user=hectornetf&theme=github-dark-blue&hide_border=true&background=0D1117&ring=BC8CFF&fire=79C0FF&currStreakLabel=79C0FF)](https://github.com/hectornetf)
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=hectornetf&bg_color=0d1117&color=00f5d4&line=ff4dff&point=ffffff&area=true&hide_border=true)](https://github.com/hectornetf)
 
 </div>
 
-## ✨ Projeto em destaque
+## `> PROJETOS_EM_DESTAQUE` 🧩
 
-### 🐍 Snake — uma pausa interativa
+- 🏐 **[Volleyball](https://github.com/hectornetf/Volleyball)** — gestão para grupos de vôlei com React, Vite, React Native, Expo e Firebase.
+- 🔌 **[ngx-sails-io](https://github.com/hectornetf/ngx-sails-io)** — integração de Angular com Sails.js e Socket.IO.
+- 🖥️ **[WebAppCrudEF2](https://github.com/hectornetf/WebAppCrudEF2)** — aplicação CRUD com ASP.NET MVC e Entity Framework Core.
+- ⚙️ **[MonitoramentoDisco](https://github.com/hectornetf/MonitoramentoDisco)** — automação PowerShell para relatórios de espaço em disco.
+- 🐍 **[Snake](snake.html)** — jogo da cobrinha para uma pausa entre projetos.
 
-Um jogo da cobrinha feito com HTML, CSS e JavaScript, com controles de teclado e botões para celular.
+## `> CONECTAR` 🌐
 
-[**▶ Jogar Snake**](snake.html) · [Ver código](snake.html)
-
-## 🤝 Vamos nos conectar
-
-- Explore meus [repositórios](https://github.com/hectornetf?tab=repositories)
-- Acompanhe meus [projetos e atualizações](https://github.com/hectornetf)
+Veja meus [repositórios](https://github.com/hectornetf?tab=repositories) e acompanhe os projetos por aqui. Para contato profissional, envie uma mensagem pelo GitHub.
 
 ---
 
 <div align="center">
 
-*Obrigado pela visita — volte sempre!* ✨
+`SYSTEM STATUS: LEARNING • BUILDING • SHIPPING`
+
+*Valeu pela visita. Até a próxima!* ✨
 
 </div>

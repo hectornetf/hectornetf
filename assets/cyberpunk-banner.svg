@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080A16"/>
+      <stop offset=".52" stop-color="#11102B"/>
+      <stop offset="1" stop-color="#080A16"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="95" y1="135" x2="680" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4"/>
+      <stop offset="1" stop-color="#FF4DFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 240 -390 0 900 0)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7122FA" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#7122FA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#A78BFA" stroke-opacity=".10"/>
+    </pattern>
+    <filter id="soft-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="380" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="380" rx="26" fill="url(#glow)"/>
+  <rect width="1200" height="380" rx="26" fill="url(#grid)"/>
+  <path d="M0 315H1200" stroke="#00F5D4" stroke-opacity=".18"/>
+  <path d="M0 319H1200" stroke="#FF4DFF" stroke-opacity=".10"/>
+  <path d="M60 75H83M71.5 63.5V86.5M1100 90H1123M1111.5 78.5V101.5M1020 298H1043M1031.5 286.5V309.5" stroke="#00F5D4" stroke-opacity=".6" stroke-width="2"/>
+  <circle cx="1000" cy="175" r="105" stroke="#00F5D4" stroke-opacity=".16"/>
+  <circle cx="1000" cy="175" r="78" stroke="#FF4DFF" stroke-opacity=".22"/>
+  <circle cx="1000" cy="175" r="50" stroke="#00F5D4" stroke-opacity=".34"/>
+  <path d="M900 175H1100M1000 75V275M929 104L1071 246M1071 104L929 246" stroke="#A78BFA" stroke-opacity=".15"/>
+  <path d="M942 200L975 150H1000L1027 118H1063" stroke="url(#neon)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft-glow)"/>
+  <circle cx="942" cy="200" r="5" fill="#00F5D4"/>
+  <circle cx="1063" cy="118" r="5" fill="#FF4DFF"/>
+  <text x="88" y="119" fill="#00F5D4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="4">GITHUB PROFILE // 001</text>
+  <text x="82" y="204" fill="#F5F3FF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Hector Nelson</text>
+  <text x="88" y="248" fill="#C3BEDA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="2">FULL STACK  /  BACK-END  /  DEVOPS</text>
+  <rect x="88" y="279" width="180" height="3" rx="1.5" fill="url(#neon)"/>
+  <text x="88" y="348" fill="#85819F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">BUILDING WHAT'S NEXT</text>
+  <rect x="24" y="24" width="1152" height="332" rx="18" stroke="#A78BFA" stroke-opacity=".25"/>
+</svg>
